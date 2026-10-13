@@ -1,0 +1,26 @@
+ProductID,Category,Description,Price,Stock
+101,Tecnologia,Smartphone Android com 128GB,710.76,12
+102,Tecnologia,Computador portátil com 16GB RAM,236.65,9
+103,Tecnologia,"Tablet 10"" com 4G",861.04,14
+104,Tecnologia,"Monitor 27"" Full HD",519.01,40
+105,Tecnologia,Fones Bluetooth,672.29,32
+106,Casa,Aspirador robot inteligente,543.84,97
+107,Casa,Conjunto de lençóis de algodão,936.16,78
+108,Casa,Luminária LED moderna,580.45,36
+109,Casa,Cortina blackout térmica,786.77,57
+110,Casa,Relógio de parede minimalista,198.51,17
+111,Desporto,Sapatilhas de corrida,662.39,50
+112,Desporto,Bicicleta de montanha,429.34,64
+113,Desporto,Halteres de 10kg,865.2,11
+114,Desporto,Tapete de yoga antiderrapante,676.63,87
+115,Desporto,Mochila para trilhas,107.43,56
+116,Cozinha,Liquidificadora 1000W,730.93,18
+117,Cozinha,Frigideira antiaderente,256.17,29
+118,Cozinha,Conjunto de panelas inox,540.92,22
+119,Cozinha,Faca de chef profissional,427.66,40
+120,Cozinha,Tábua de corte em bambu,468.0,14
+121,Livros,Romance bestseller,448.7,75
+122,Livros,Guia de viagens,106.93,88
+123,Livros,Livro de receitas saudáveis,999.29,6
+124,Livros,Manual de fotografia,969.31,35
+125,Livros,Ficção científica premiada,174.65,67

@@ -1,0 +1,101 @@
+ClientID,Name,Email,Age,Gender,Location
+1,Sofia Castro,marta28@borges.pt,58,M,Montemor-o-Novo
+2,Fernando Gonçalves,nadiajesus@hotmail.com,19,F,Póvoa de Varzim
+3,Bernardo Garcia,fmendes@azevedo.com,33,M,Oliveira do Bairro
+4,Bruno Mota,loureirodavid@hotmail.com,26,M,Vila Nova de Foz Côa
+5,Filipa Reis,kevim39@hotmail.com,61,M,Coimbra
+6,Jorge do Barbosa,pgaspar@pereira.pt,55,F,Évora
+7,Benedita Pinho,nuria80@sapo.pt,20,M,Rio Maior
+8,Emília Martins-Pinheiro,francisco04@gmail.com,23,M,Pombal
+9,Rita Costa,torresmariana@hotmail.com,32,M,Coimbra
+10,Raquel Reis,igaspar@lima.pt,53,M,Gafanha da Nazaré
+11,Patrícia Coelho,alvaro23@carneiro.pt,63,F,Câmara de Lobos
+12,Andreia Mota-Oliveira,ana37@simoes.net,32,F,Pombal
+13,Maria Barros,garciagabriela@guerreiro.pt,55,F,Montemor-o-Novo
+14,Joana Amorim-Pires,noliveira@garcia.net,18,M,Portimão
+15,Nuno Moreira,mfernandes@sa.pt,62,F,Estremoz
+16,Camila Batista,joaquim88@gmail.com,39,F,Santarém
+17,Catarina de Santos,rcoelho@clix.pt,27,M,Tarouca
+18,Marcos Rodrigues,alexandre39@barros.com,39,M,Oliveira do Bairro
+19,Francisco Machado,luana80@gmail.com,23,F,Valpaços
+20,Denis Vicente-Miranda,amelia54@antunes.pt,24,F,Seia
+21,Simão Ferreira,wpinheiro@sapo.pt,40,F,Tarouca
+22,Letícia Brito,henriquesmarcos@pinho.pt,20,F,Vila Nova de Santo André
+23,Sérgio Machado,oguerreiro@ferreira.com,52,M,Ovar
+24,Vera Torres,tomeferreira@mendes.org,42,M,Costa da Caparica
+25,Lourenço Pires,vicenteramos@sapo.pt,53,F,Seixal
+26,Vera Baptista,fcunha@sapo.pt,58,F,Rio Tinto
+27,Marcos Machado,borgesvera@hotmail.com,54,M,Faro
+28,Rafaela Alves,imota@sapo.pt,63,M,Portimão
+29,Lucas Loureiro,ycunha@sapo.pt,20,M,Entroncamento
+30,Ana Cunha,matiasangelo@clix.pt,36,M,Figueira da Foz
+31,Amélia Assunção,silvapaulo@clix.pt,32,M,Caldas da Rainha
+32,Laura Nogueira,reisluisa@ferreira.pt,42,F,Vila Nova de Santo André
+33,Bruno Soares,evatorres@cunha.com,47,F,Cantanhede
+34,Martim Matos,jhenriques@sapo.pt,28,F,Lamego
+35,Helena Pinho,emilia74@sapo.pt,40,M,Estarreja
+36,Hugo Araújo-Monteiro,fonsecavioleta@gmail.com,60,F,Beja
+37,Bruna Gomes-Mendes,daniel19@hotmail.com,62,M,Póvoa de Santa Iria
+38,Mauro Moura,mateusneto@soares.com,56,M,Moura
+39,Melissa Almeida-Rocha,wilsonramos@pereira.com,52,M,Cartaxo
+40,Leonor Pinho,sousaismael@gmail.com,28,F,São Salvador de Lordelo
+41,Leandro Ramos,fpinho@pires.com,42,F,Fundão
+42,Nelson Teixeira,filipegoncalves@gmail.com,58,M,Costa da Caparica
+43,Lia Moreira,salvadormorais@clix.pt,61,F,Póvoa de Varzim
+44,Luísa Carvalho,goncaloborges@hotmail.com,21,M,Mirandela
+45,Júlia Matos,fredericoandrade@gomes.pt,20,F,Mirandela
+46,Manuel Garcia,wsilva@figueiredo.pt,43,F,Marinha Grande
+47,Martim Rodrigues-Magalhães,leonor31@monteiro.com,22,M,Seixal
+48,Valentim Pacheco-Carneiro,joelcarneiro@ferreira.com,54,F,Bragança
+49,Luna de Oliveira,erica08@loureiro.pt,31,F,Rio Tinto
+50,Adriana Machado,nunesjessica@matias.org,43,F,Vila do Conde
+51,José Nogueira,spaiva@rocha.pt,27,F,Maia
+52,Ariana de Melo,lfreitas@gmail.com,26,M,Santiago do Cacém
+53,Rúben Henriques,ruimendes@leal.pt,65,F,Évora
+54,Cláudio Nogueira,artur15@guerreiro.com,65,F,Serpa
+55,Petra Assunção-Vaz,gmarques@gomes.pt,55,F,Montemor-o-Novo
+56,Eva Pinto-Valente,barrosnair@clix.pt,41,M,Espinho
+57,Ângelo Santos-Paiva,afonsogaspar@torres.pt,26,F,Câmara de Lobos
+58,Rúben Nascimento,gustavo04@pereira.com,23,M,Vila do Conde
+59,Lisandro Correia,moraisjose@andrade.pt,25,M,Espinho
+60,Daniel Batista,itorres@gmail.com,58,M,Felgueiras
+61,Anita-Caetana Monteiro,ipereira@cunha.net,61,F,São João da Madeira
+62,Gonçalo Coelho,madalena88@gmail.com,56,M,Entroncamento
+63,Irina Ribeiro,mariomendes@sapo.pt,42,F,Freamunde
+64,Gaspar Macedo,wilsonmatos@gmail.com,56,F,Ermesinde
+65,Tomé Cardoso,lcoelho@hotmail.com,51,F,Matosinhos
+66,Emanuel Correia,erika06@gmail.com,53,M,Rebordosa
+67,Gonçalo Vaz,matiasismael@sa.net,61,M,Peniche
+68,Gustavo Campos,matias49@castro.net,61,F,Vila Real
+69,Ricardo Sá,marquesjoaquim@cruz.pt,59,F,Montemor-o-Novo
+70,Isaac Neves-Pinto,andradebarbara@clix.pt,25,F,Agualva-Cacém
+71,Vitória Baptista,tomemelo@hotmail.com,45,M,Ribeira Grande
+72,Vera Teixeira,vera37@sapo.pt,47,M,São Mamede de Infesta
+73,Marta Lima,ema49@borges.com,64,F,Vila Nova de Famalicão
+74,João Araújo,jessica43@gmail.com,50,M,Mealhada
+75,Kelly Lourenço-Domingues,bteixeira@clix.pt,50,M,Peniche
+76,Kelly Gaspar-Guerreiro,smoreira@clix.pt,58,F,Sintra
+77,Sérgio Morais,marcos79@hotmail.com,58,M,Elvas
+78,Manuel Faria,goncalo85@lopes.pt,27,F,Póvoa de Santa Iria
+79,Luís do Moura,eduarda33@hotmail.com,28,M,Felgueiras
+80,Rafaela Sousa,marcotavares@hotmail.com,56,F,Sabugal
+81,Enzo Silva,correianuria@esteves.org,49,M,Praia da Vitória
+82,João Sousa,duartemorais@correia.com,25,F,Esmoriz
+83,Letícia da Henriques,micaelmacedo@sapo.pt,37,M,Mêda
+84,Andreia Gaspar-Vicente,esteveslourenco@matias.com,21,M,Rio Tinto
+85,Carolina Nogueira,vanjos@santos.com,54,M,Covilhã
+86,Débora Simões,borgesvalentim@hotmail.com,23,F,Tavira
+87,Tatiana Antunes-Martins,bgaspar@sapo.pt,22,M,Braga
+88,Xavier Gonçalves,kgarcia@gaspar.net,26,F,Faro
+89,Álvaro Marques,santoslucas@hotmail.com,53,M,Gouveia
+90,Inês Branco-Correia,cardosovera@hotmail.com,34,F,Entroncamento
+91,Alexandra do Matos,borgescarlota@gmail.com,31,M,São Salvador de Lordelo
+92,Ema de Fernandes,luisa78@ramos.org,63,F,Angra do Heroísmo
+93,Luciana Assunção,sebastiaocoelho@hotmail.com,43,F,Portalegre
+94,Gil Guerreiro,assuncaotomas@sapo.pt,46,F,Ílhavo
+95,Ivo Sá,aloureiro@sapo.pt,25,M,Évora
+96,Afonso Pacheco,leiteyasmin@goncalves.org,32,M,Felgueiras
+97,Salvador Simões,mcastro@sapo.pt,39,M,Castelo Branco
+98,Tiago Cruz,macedovasco@clix.pt,55,M,Santo Tirso
+99,António Esteves,uamaral@gmail.com,55,M,Câmara de Lobos
+100,Kevin Vieira,joaquimborges@clix.pt,18,M,Vila Nova de Santo André
