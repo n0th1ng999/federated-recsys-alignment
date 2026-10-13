@@ -18,11 +18,18 @@ project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, project_root)
 sys.path.insert(0, os.path.join(project_root, "reproducibility_benchmark"))
 
-from reproducibility_benchmark.federated.federated_utils import (
-    evaluate_pointwise,
-    evaluate_ranking_paired,
-    compute_dispersion,
-)
+try:
+    from federated.federated_utils import (
+        evaluate_pointwise,
+        evaluate_ranking_paired,
+        compute_dispersion,
+    )
+except ImportError:
+    from reproducibility_benchmark.federated.federated_utils import (
+        evaluate_pointwise,
+        evaluate_ranking_paired,
+        compute_dispersion,
+    )
 
 
 def test_ranking_metrics_exact_known_cases():
@@ -126,9 +133,12 @@ def test_pointwise_metrics_consistency():
 
 def test_verified_ears_pilot_results():
     """Verify that all EARS pilot verified results satisfy RMSE == sqrt(MSE) exactly."""
-    print("Testing EARS pilot results consistency in JSON...")
-    path = os.path.join(project_root, "reproducibility_benchmark", "experiments", "ears_pilot_verified_results.json")
-    assert os.path.exists(path), f"Missing {path}"
+    candidates = [
+        os.path.join(project_root, "experiments", "ears_pilot_verified_results.json"),
+        os.path.join(project_root, "reproducibility_benchmark", "experiments", "ears_pilot_verified_results.json"),
+    ]
+    path = next((p for p in candidates if os.path.exists(p)), None)
+    assert path is not None and os.path.exists(path), f"Missing ears_pilot_verified_results.json (searched in {candidates})"
     with open(path) as f:
         data = json.load(f)
 
